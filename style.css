@@ -32,3 +32,14 @@ body {
     
 }
 
+.containers {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 13em;
+}
+
+.listItem {
+    margin-bottom: 3em;
+    background-color: tan;
+}
