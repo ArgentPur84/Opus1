@@ -50,5 +50,9 @@ body {
 
 .listItem {
     margin-bottom: 3em;
-    background-color: tan;
+    background-image: url('pianoBackground2.jpg')
+}
+
+.small {
+    font-weight: bold;
 }
