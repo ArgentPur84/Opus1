@@ -52,6 +52,11 @@ body {
     box-shadow: 0 5px 5px;
     
 }
+
+.card-body {
+    background-color: cornsilk;
+}
+
 .headContainer {
     display: flex;
     flex-direction: column;
