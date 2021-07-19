@@ -101,7 +101,7 @@ body {
 }
 
 .linear-gradient {
-    background: linear-gradient(to top, rgb(85, 6, 6), blue)
+    background: linear-gradient(to top right, rgb(85, 6, 6), blue)
 }
 
 .linear-gradient2 {
