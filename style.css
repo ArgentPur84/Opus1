@@ -73,7 +73,7 @@ body {
     width: 80%;
     margin-left: 5em;
     margin-top: 1em;
-    background-color: rgb(53, 168, 168);
+    background-color: rgb(53, 168, 168); 
     box-shadow: 0 5px 5px;
 }
 
@@ -100,3 +100,10 @@ body {
     max-width: 1750px;
 }
 
+.linear-gradient {
+    background: linear-gradient(to top, rgb(85, 6, 6), blue)
+}
+
+.linear-gradient2 {
+    background: linear-gradient(to top right, grey, white)
+}
