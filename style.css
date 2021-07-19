@@ -3,9 +3,9 @@ a{
     text-shadow: 0px 3px 4px white;
 }
 h1{
-    color: orange;
+    color: rgb(239, 243, 17);
     text-align: center;
-    text-shadow: 0px 3px 4px black;
+    text-shadow: 0px 6px 8px black;
 }
 
 h5{
@@ -37,6 +37,7 @@ h2{
     width: 100%;
     margin-bottom: 10em;
     margin-top: 10em;
+    box-shadow: 0 5px 5px;
 }
 
 body {
@@ -48,6 +49,7 @@ body {
     border: black;
     border-width: 2em;
     display: flex;
+    box-shadow: 0 5px 5px;
     
 }
 .headContainer {
@@ -58,6 +60,7 @@ body {
     margin-top: 1em;
     margin-bottom: 1em;
     background-color: orange;
+    box-shadow: 0 5px 5px;
 }
 .containers {
     display: flex;
@@ -65,13 +68,22 @@ body {
     width: 80%;
     margin-left: 5em;
     margin-top: 1em;
-    background-color: teal;
+    background-color: rgb(53, 168, 168);
+    box-shadow: 0 5px 5px;
 }
 
 .listItem {
     margin-bottom: 3em;
     color: black;
-    background-image: url('pianoBackground2.jpg')
+    background-color: beige;
+    box-shadow: 0 5px 5px;
+    
+}
+
+.list-group {
+    background-color: rgb(228, 181, 124);
+    box-shadow: 0 5px 5px;
+    
 }
 
 .small {
