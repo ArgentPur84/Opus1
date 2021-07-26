@@ -111,3 +111,7 @@ body {
 .linear-gradient3 {
     background: linear-gradient(to top right, rgb(226, 207, 39), rgb(230, 228, 224))
 }
+
+.linear-gradient4 {
+    background: linear-gradient(to top right, rgb(20, 31, 194), rgb(230, 228, 224))
+}
