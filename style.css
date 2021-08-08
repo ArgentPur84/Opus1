@@ -1,6 +1,7 @@
 a{
     color: rgb(12, 51, 51);
-    text-shadow: 0px 3px 4px white;
+    text-shadow: 0px 1px 1px rgb(67, 37, 201);
+    margin-block: 1em;
 }
 h1{
     color: rgb(239, 243, 17);
