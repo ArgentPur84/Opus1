@@ -10,7 +10,7 @@ h1{
 }
 
 h5{
-    color: red;
+    color: rgb(134, 60, 60);
 }
 
 h2{
@@ -81,8 +81,10 @@ body {
 .listItem {
     margin-bottom: 3em;
     color: black;
-    background-color: beige;
+    background-color: rgb(31, 187, 207);
     box-shadow: 0 5px 5px;
+    background: linear-gradient(to top right, rgb(117, 185, 230), rgb(202, 202, 231))
+    
     
 }
 
