@@ -3,6 +3,7 @@ a{
     text-shadow: 0px 1px 1px rgb(67, 37, 201);
     margin-block: 1em;
 }
+
 h1{
     color: rgb(239, 243, 17);
     text-align: center;
@@ -10,7 +11,7 @@ h1{
 }
 
 h5{
-    color: rgb(134, 60, 60);
+    color: rgb(3, 3, 3);
 }
 
 h2{
@@ -18,6 +19,7 @@ h2{
     font-weight: bold;
     text-shadow: 0px 3px 4px white;
 }
+
 .category {
     justify-content: center;
    
@@ -30,6 +32,7 @@ h2{
 #navhead {
     color: yellow;
 }
+
 .pages {
     background-image: url('pianoBackground2.jpg');
     justify-content: center;
@@ -75,22 +78,29 @@ body {
     width: 80%;
     margin-left: 5em;
     margin-top: 1em;
-    background-color: rgb(53, 168, 168); 
     box-shadow: 0 5px 5px;
 }
 
+.containers1 {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 5em;
+    margin-top: 1em;
+    padding-bottom: 2em;
+    box-shadow: 0 5px 5px;
+}
 .listItem {
     margin-bottom: 3em;
     color: black;
     background-color: rgb(31, 187, 207);
     box-shadow: 0 5px 5px;
     background: linear-gradient(to top right, rgb(117, 185, 230), rgb(202, 202, 231))
-    
-    
+       
 }
 
 .list-group {
-    background-color: rgb(228, 181, 124);
+    padding-bottom: 1em;
     box-shadow: 0 5px 5px;
     
 }
@@ -119,6 +129,10 @@ body {
     background: linear-gradient(to top right, rgb(226, 207, 39), rgb(230, 228, 224))
 }
 
+.linear-gradient3a {
+    background: linear-gradient(to top right, rgb(209, 146, 28), rgb(226, 195, 134))
+}
+
 .linear-gradient4 {
     background: linear-gradient(to top right, rgb(20, 31, 194), rgb(230, 228, 224))
 }
@@ -136,5 +150,9 @@ body {
 }
 
 .radial {
-    background: radial-gradient(12rem circle at top, yellow, orange, red)
+    background: radial-gradient(32rem circle at bottom, yellow, orange, red)
+}
+
+.radial2 {
+    background: radial-gradient(25rem circle at top, rgb(20, 168, 112), orange, rgb(180, 217, 231))
 }
