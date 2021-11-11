@@ -6,7 +6,7 @@ resourcePage.addEventListener('click', function() {
 });
 
 classicalInfo.addEventListener('click', function() {
-   alert("The term 'classical music' is often used in refernce to many different periods of wetern music, including the 'Classical period' among others.")
+   alert("The term 'classical music' is often used in reference to many different periods of wetern music, including the 'Classical period' among others.")
 })
 
 
