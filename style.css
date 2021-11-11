@@ -156,3 +156,7 @@ body {
 .radial2 {
     background: radial-gradient(25rem circle at top, rgb(20, 168, 112), orange, rgb(180, 217, 231))
 }
+
+#spread {
+    box-shadow: 0 10px 10px -10px;
+}
